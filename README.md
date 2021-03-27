@@ -4,3 +4,5 @@
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="drawing" width="110"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="drawing" width="110"/>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fillipehmeireles)](https://github.com/anuraghazra/github-readme-stats)

@@ -12,5 +12,3 @@
   <li> 🎵 🎥 Youtube Downloader API - https://github.com/fillipehmeireles/youtube-downloader-api </li>
   <li> 🛤️ The Tracker API - https://github.com/fillipehmeireles/the-tracker-api </li>
 </ul>
-
-

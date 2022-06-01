@@ -10,5 +10,4 @@
   <li> 📶 Connectivity Checker - https://github.com/fillipehmeireles/connectivity-checker </li>
   <li> 🔑 Secure Password Generator - https://github.com/fillipehmeireles/secure-password-generator </li>
   <li> 🎵 🎥 Youtube Downloader API - https://github.com/fillipehmeireles/youtube-downloader-api </li>
-  <li> 🛤️ The Tracker API - https://github.com/fillipehmeireles/the-tracker-api </li>
 </ul>

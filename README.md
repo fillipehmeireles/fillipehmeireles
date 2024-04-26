@@ -3,8 +3,11 @@
 <h3 align="center">Software Engineer & Pentester</h3>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/FillipeMeireles.png" />
+
 # 💫 About Me:
-🔭 I’m currently working on Software Development<br>🌱 I’m currently learning Ethical Hacking<br>💬 Ask me about Golang
+🔭 I’m currently working on Software Development<br>
+🌱 I’m currently learning Ethical Hacking<br>
+💬 Ask me about Golang
 
 
 ## 🌐 Socials:

@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/fillipehmeireles/fillipehmeireles/main/FillipeMeirelesTHM.png" />
 
 # 💫 About Me:
-🔭 I’m currently working on Software Development<br>
+🔭 I’m currently working as Software Engineer <br>
 🌱 I’m currently learning Ethical Hacking<br>
 💬 Ask me about Golang
 

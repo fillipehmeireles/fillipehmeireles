@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, I'm Fillipe Meireles </h1>
 <h3 align="center">Software Engineer & Pentester</h3>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/FillipeMeireles.png" />
+<img src="https://raw.githubusercontent.com/fillipehmeireles/fillipehmeireles/main/FillipeMeirelesTHM.png" />
 
 # 💫 About Me:
 🔭 I’m currently working on Software Development<br>
